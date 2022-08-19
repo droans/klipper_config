@@ -1,0 +1,7 @@
+moonraker/moonraker-obico.cfg
+moonraker/auth.conf
+*bkp
+*log
+printer-*
+moonraker-*
+old*
