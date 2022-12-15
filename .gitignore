@@ -1,13 +1,4 @@
-moonraker/moonraker-obico.cfg
 moonraker/auth.conf
-*bkp
-*log
-printer-*
-moonraker-*
-old*
-octopus_pro
-skr_mini_e3_v2
-.old
-klipper
-__pycache__
-*.pyc
+moonraker/secrets.conf
+.moonraker.conf.bkp
+moonraker-obico.cfg
