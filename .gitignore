@@ -2,3 +2,4 @@ moonraker/auth.conf
 moonraker/secrets.conf
 .moonraker.conf.bkp
 moonraker-obico.cfg
+printer-*.cfg
